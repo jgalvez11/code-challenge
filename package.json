@@ -1,0 +1,16 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Prueba algóritmo",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/src/index"
+  },
+  "keywords": [
+    "Typescript",
+    "function",
+    "Array"
+  ],
+  "author": "Jefersson Gálvez",
+  "license": "ISC"
+}
