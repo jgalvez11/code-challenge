@@ -24,5 +24,5 @@ V = Math.Abs(Max(A[0],A[1]...A[S]) - Max(A[S+1], A[S+2]...A[L-1]))
 
 1. Clone the repository
 2. Run command "npm start"
-3. Change de array content to see the result in file "src/index.ts" (Line 72)
+3. Change array content to see the result in file "src/index.ts" (Line 72)
 4. Enjoy!!!
